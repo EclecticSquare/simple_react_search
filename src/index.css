@@ -5,8 +5,22 @@ body {
   background-color: #581845;
 }
 
+.box {
+  background-color: #C70039;
+  margin: 5vh auto auto auto;
+  width: 40vw;
+  height: 35vh;
+  border: solid 2px #DAF7A6;
+}
+
 .title {
   font-size: 3em;
   text-decoration: underline;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+p {
+  font-family: cursive ;
+  font-size: 2em;  
+}
+
