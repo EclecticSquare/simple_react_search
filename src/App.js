@@ -11,7 +11,10 @@ class App extends Component {
           <p>Here is a list of links about influential African-Americans in history.</p>
         </div>
 
-        <div></div>
+        <div>
+          <h2>Search</h2>
+          <form><input type='text' placeholder='Enter a name'></input></form>
+        </div>
       </div>
     );
   }
