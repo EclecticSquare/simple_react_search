@@ -37,3 +37,17 @@ input {
   font-size: 20px;
 }
 
+.nameList {
+  background-color: #C70039;
+  width: 40vw;
+  border: solid 2px #DAF7A6;
+  margin: 3vh auto auto auto;
+  text-align: left;
+  font-size: 20px;
+}
+
+li {
+  margin: 1vh auto .5vh 15vw;
+
+}
+
